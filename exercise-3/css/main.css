@@ -3,3 +3,31 @@
 * {
     box-sizing: border-box;
 }
+
+.col {
+    text-align: center;
+}
+
+.header{
+    font-weight: 300;
+}
+
+#icons {
+    margin-bottom: 10px;
+}
+
+.bell {
+    color: #8c9eff;
+}
+
+.gear {
+    color: #82b1ff;
+}
+
+.asterisk {
+    color: #80d8ff;
+}
+
+.anchor {
+    color: #b388ff;
+}
